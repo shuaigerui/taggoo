@@ -1,0 +1,36 @@
+克隆项目路径：/Users/a0000/Downloads/CampingSocailRp
+
+原目录：Common --> 新目录：notifying
+原目录：EX --> 新目录：getoptErrstr
+原目录：Model --> 新目录：uvmv
+原目录：Data --> 新目录：msmpegv
+原目录：Modules --> 新目录：stringbufferOutputq
+原目录：Home --> 新目录：significance
+原目录：Models --> 新目录：possibly
+原目录：Views --> 新目录：eocdCompressed
+原目录：Discover --> 新目录：widescreenSynonyms
+原目录：Chat --> 新目录：halfltuintRedelegate
+原目录：Welcome --> 新目录：talkHyphenated
+原目录：Profile --> 新目录：black
+原目录：Resource --> 新目录：unknown
+原目录：Video --> 新目录：gmockYuvmpeg
+原目录：Live --> 新目录：att
+原目录：Post --> 新目录：power
+原目录：Star --> 新目录：classVpcx
+原目录：Avatar --> 新目录：entitiesCandle
+原目录：Base --> 新目录：terminate
+开始生成项目依赖配置信息:
+/Users/a0000/Desktop/whc_clone_directory/camping/Pods/Pods.xcodeproj/project.pbxproj
+
+.............................................................................................................................................................................................................................................................................................................................................
+
+生成配置信息完成
+开始生成项目依赖配置信息:
+/Users/a0000/Desktop/whc_clone_directory/camping/camping.xcodeproj/project.pbxproj
+
+........................
+
+生成配置信息完成
+
+
+克隆项目完成✌️

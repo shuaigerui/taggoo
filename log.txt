@@ -1,0 +1,839 @@
+开始自动混淆项目代码扫描文件中。。。。。。
+
+
+混淆项目路径：/Users/a0000/Desktop/whc_clone_directory/camping
+新文件 <-> 现有文件 : LaunchScreen.storyboard      LaunchScreen.storyboard
+新文件 <-> 现有文件 : Main.storyboard      Main.storyboard
+新文件 <-> 现有文件 : CSSettingCurrentController.swift      ViewController.swift
+新文件 <-> 现有文件 : CSConversationController.swift      CS_BaseVC.swift
+新文件 <-> 现有文件 : CSPackageToolController.swift      CS_TabBarVC.swift
+新文件 <-> 现有文件 : CSMenuSetting.swift      CS_TabBar.swift
+新文件 <-> 现有文件 : CSInputController.swift      CS_LaunchVC.swift
+新文件 <-> 现有文件 : CSMainView.swift      CS_AddMenuView.swift
+新文件 <-> 现有文件 : CSLocalState.swift      CS_Color.swift
+新文件 <-> 现有文件 : CSConversation.swift      CS_IAPManager.swift
+新文件 <-> 现有文件 : CSDetailPush.swift      UIColor+Extension.swift
+新文件 <-> 现有文件 : CSData.swift      CS_VideoThumbnail.swift
+新文件 <-> 现有文件 : CSLive.swift      UIViewController+PostDelete.swift
+新文件 <-> 现有文件 : CSStorage.swift      String+Extension.swift
+新文件 <-> 现有文件 : CSScreenEmpty.swift      UIViewController+Person.swift
+新文件 <-> 现有文件 : CSLocalView.swift      CS_PopView.swift
+新文件 <-> 现有文件 : CSForm.swift      CS_ChatAccess.swift
+新文件 <-> 现有文件 : CSHome.swift      CS_NetworkTool.swift
+新文件 <-> 现有文件 : CSUserView.swift      CS_EmptyView.swift
+新文件 <-> 现有文件 : CSDeleteForm.swift      CS_CurrentUser.swift
+新文件 <-> 现有文件 : CSMediaKind.swift      UserData.swift
+新文件 <-> 现有文件 : CSLaunch.swift      CS_ResourcePath.swift
+新文件 <-> 现有文件 : CSCapturerMain.swift      PostModel+Feed.swift
+新文件 <-> 现有文件 : CSItem.swift      AuthorProfileOverride.swift
+新文件 <-> 现有文件 : CSMenu.swift      PostModel.swift
+新文件 <-> 现有文件 : CSResource.swift      UserModel.swift
+新文件 <-> 现有文件 : CSSetup.swift      PostLikeState.swift
+新文件 <-> 现有文件 : CSExtensionMedia.swift      CS_MediaPermission.swift
+新文件 <-> 现有文件 : AppDelegate.swift      AppDelegate.swift
+新文件 <-> 现有文件 : CSLoginController.swift      CS_WelcomeVC.swift
+新文件 <-> 现有文件 : CSVideoController.swift      CS_SetupFormVC.swift
+新文件 <-> 现有文件 : CSManagerFormController.swift      CS_SetupInfoVC.swift
+新文件 <-> 现有文件 : CSGallerySettingCell.swift      CS_LiveChatCell.swift
+新文件 <-> 现有文件 : CSStateDelegateCell.swift      CS_DiscoverFeedCell.swift
+新文件 <-> 现有文件 : CSPackageAuthorCell.swift      CS_DiscoverLiveCell.swift
+新文件 <-> 现有文件 : CSLoginToolView.swift      CS_DiscoverHeaderView.swift
+新文件 <-> 现有文件 : CSAuthorGallery.swift      CS_LiveRoomScripts.swift
+新文件 <-> 现有文件 : CSPermissionUserController.swift      CS_LiveVC.swift
+新文件 <-> 现有文件 : CSEditUser.swift      CS_LiveChatMessage.swift
+新文件 <-> 现有文件 : CSWelcomeRegisterItem.swift      CS_DiscoverLiveItem.swift
+新文件 <-> 现有文件 : CSVideoCenterItem.swift      CS_DiscoverFeedItem.swift
+新文件 <-> 现有文件 : CSCurrentController.swift      CS_DiscoverVC.swift
+新文件 <-> 现有文件 : CSColorController.swift      CS_AIChatRoomVC.swift
+新文件 <-> 现有文件 : CSVideo.swift      CS_LocalCameraCapturer.swift
+新文件 <-> 现有文件 : CSHeaderVideoController.swift      CS_ChatRoomVC.swift
+新文件 <-> 现有文件 : CSResourceBaseCell.swift      CS_ChatRoomMessageCell.swift
+新文件 <-> 现有文件 : CSLoginCell.swift      CS_AIChatMessageCell.swift
+新文件 <-> 现有文件 : CSScriptsThumbCell.swift      CS_ChatListCell.swift
+新文件 <-> 现有文件 : CSGalleryController.swift      CS_VideoRoomVC.swift
+新文件 <-> 现有文件 : CSEditNetworkController.swift      CS_ChatVC.swift
+新文件 <-> 现有文件 : CSMain.swift      CS_ChatConversation.swift
+新文件 <-> 现有文件 : CSState.swift      CS_AIChatMessage.swift
+新文件 <-> 现有文件 : CSAuthor.swift      CS_ChatRoomMessage.swift
+新文件 <-> 现有文件 : CSEditHome.swift      CS_ChatStorage.swift
+新文件 <-> 现有文件 : CSFormOverrideController.swift      CS_UserListVC.swift
+新文件 <-> 现有文件 : CSAccessMessageController.swift      CS_RechargeVC.swift
+新文件 <-> 现有文件 : CSDelegateItem.swift      CS_UserListStorage.swift
+新文件 <-> 现有文件 : CSManagerPathView.swift      CS_ProfileHeaderView.swift
+新文件 <-> 现有文件 : CSPushInfoCell.swift      CS_RechargePackageCell.swift
+新文件 <-> 现有文件 : CSWelcomeCell.swift      CS_UserListCell.swift
+新文件 <-> 现有文件 : CSKindView.swift      CS_PersonHeaderView.swift
+新文件 <-> 现有文件 : CSCapturerLiveController.swift      CS_ContactVC.swift
+新文件 <-> 现有文件 : CSContactChatController.swift      CS_ReportVC.swift
+新文件 <-> 现有文件 : CSCommentController.swift      CS_PersonVC.swift
+新文件 <-> 现有文件 : CSDelegateAvatarController.swift      CS_ProfileVC.swift
+新文件 <-> 现有文件 : CSScreen.swift      CS_UserListKind.swift
+新文件 <-> 现有文件 : CSPathCommentItem.swift      CS_ProfilePostItem.swift
+新文件 <-> 现有文件 : CSPushController.swift      CS_SettingVC.swift
+新文件 <-> 现有文件 : CSPostController.swift      CS_EditVC.swift
+新文件 <-> 现有文件 : CSGalleryLaunchController.swift      CS_VideoVC.swift
+新文件 <-> 现有文件 : CSDataVideoController.swift      CS_PushPostVC.swift
+新文件 <-> 现有文件 : CSNetworkCapturerCell.swift      CS_PostDetailImageCell.swift
+新文件 <-> 现有文件 : CSToolDeleteCell.swift      CS_HomePostCell.swift
+新文件 <-> 现有文件 : CSRechargeSetup.swift      CS_PostDetailInputBar.swift
+新文件 <-> 现有文件 : CSOverrideCell.swift      CS_PushPostAddCell.swift
+新文件 <-> 现有文件 : CSAccessCell.swift      CS_HomePostImageCell.swift
+新文件 <-> 现有文件 : CSFormSetupCell.swift      CS_PushPostThumbCell.swift
+新文件 <-> 现有文件 : CSInfoConversationCell.swift      CS_PostDetailPostCell.swift
+新文件 <-> 现有文件 : CSLaunchView.swift      CS_PostDetailGalleryView.swift
+新文件 <-> 现有文件 : CSStateCenterCell.swift      CS_PostDetailCommentCell.swift
+新文件 <-> 现有文件 : CSInfoView.swift      CS_HomeHeaderView.swift
+新文件 <-> 现有文件 : CSVideoDelegateController.swift      CS_PostDetailVC.swift
+新文件 <-> 现有文件 : CSLaunchDiscoverController.swift      CS_StarPostVC.swift
+新文件 <-> 现有文件 : CSBaseController.swift      CS_HomeVC.swift
+新文件 <-> 现有文件 : CSColor.swift      CS_HomePost.swift
+新文件 <-> 现有文件 : CSOverride.swift      CS_PostComment.swift
+
+
+自动为您开启5个线程进行混淆。。。。。。。
+开始自动清理源代码中的注释。。。。。。
+
+
+
+
+开始提取所有源文件中的类名并生成新类名。。。。。。
+类名: ViewController <---替换为---> CSSettingCurrentController
+类名: CS_BaseVC <---替换为---> CSConversationController
+类名: CS_TabBarVC <---替换为---> CSPackageToolController
+类名: CS_CustomTabBar <---替换为---> CSToolDiscover
+类名: TabConfig <---替换为---> CSRecharge
+类名: CS_LaunchVC <---替换为---> CSInputController
+类名: CS_AddMenuView <---替换为---> CSMainView
+类名: CS_IAPManager <---替换为---> CSConversation
+类名: CS_PopView <---替换为---> CSLocalView
+类名: CS_NetworkTool <---替换为---> CSHome
+类名: CS_EmptyView <---替换为---> CSUserView
+类名: CS_CurrentUser <---替换为---> CSDeleteForm
+类名: AppleAccountRecord <---替换为---> CSMessage
+类名: AuthorProfileOverride <---替换为---> CSItem
+类名: PostMedia <---替换为---> CSDelete
+类名: PostCommentModel <---替换为---> CSDataImage
+类名: PostModel <---替换为---> CSMenu
+类名: UserModel <---替换为---> CSResource
+类名: PostLikeState <---替换为---> CSSetup
+类名: AppDelegate <---替换为---> AppDelegate
+类名: CS_WelcomeVC <---替换为---> CSLoginController
+类名: CS_SetupFormVC <---替换为---> CSVideoController
+类名: CS_SetupInfoVC <---替换为---> CSManagerFormController
+类名: CS_LiveChatCell <---替换为---> CSGallerySettingCell
+类名: CS_DiscoverFeedCell <---替换为---> CSStateDelegateCell
+类名: CS_DiscoverLiveCell <---替换为---> CSPackageAuthorCell
+类名: CS_DiscoverHeaderView <---替换为---> CSLoginToolView
+类名: CS_LiveVC <---替换为---> CSPermissionUserController
+类名: CS_LiveChatMessage <---替换为---> CSEditUser
+类名: CS_DiscoverLiveItem <---替换为---> CSWelcomeRegisterItem
+类名: CS_DiscoverFeedItem <---替换为---> CSVideoCenterItem
+类名: CS_DiscoverVC <---替换为---> CSCurrentController
+类名: CS_AIChatRoomVC <---替换为---> CSColorController
+类名: CS_LocalCameraCapturer <---替换为---> CSVideo
+类名: CS_ChatRoomVC <---替换为---> CSHeaderVideoController
+类名: CS_ChatRoomMessageCell <---替换为---> CSResourceBaseCell
+类名: CS_AIChatMessageCell <---替换为---> CSLoginCell
+类名: CS_ChatListCell <---替换为---> CSScriptsThumbCell
+类名: CS_VideoRoomVC <---替换为---> CSGalleryController
+类名: CS_ChatVC <---替换为---> CSEditNetworkController
+类名: CS_ChatConversation <---替换为---> CSMain
+类名: CS_AIChatMessage <---替换为---> CSState
+类名: CS_ChatRoomMessage <---替换为---> CSAuthor
+类名: CS_ChatConversationSummary <---替换为---> CSCapturerState
+类名: CS_UserListVC <---替换为---> CSFormOverrideController
+类名: CS_RechargeVC <---替换为---> CSAccessMessageController
+类名: CS_ProfileHeaderView <---替换为---> CSManagerPathView
+类名: CS_RechargePackage <---替换为---> CSProfileSetting
+类名: CS_RechargePackageCell <---替换为---> CSPushInfoCell
+类名: CS_UserListCell <---替换为---> CSWelcomeCell
+类名: CS_PersonHeaderView <---替换为---> CSKindView
+类名: CS_ContactVC <---替换为---> CSCapturerLiveController
+类名: CS_ReportVC <---替换为---> CSContactChatController
+类名: CS_PersonVC <---替换为---> CSCommentController
+类名: CS_ProfileVC <---替换为---> CSDelegateAvatarController
+类名: CS_ProfilePostItem <---替换为---> CSPathCommentItem
+类名: CS_SettingVC <---替换为---> CSPushController
+类名: SettingItem <---替换为---> CSStorageItem
+类名: CS_SettingCell <---替换为---> CSRoomCell
+类名: CS_EditVC <---替换为---> CSPostController
+类名: CS_VideoVC <---替换为---> CSGalleryLaunchController
+类名: CS_PushPostVC <---替换为---> CSDataVideoController
+类名: CS_PostDetailImageCell <---替换为---> CSNetworkCapturerCell
+类名: CS_HomePostCell <---替换为---> CSToolDeleteCell
+类名: CS_PostDetailInputBar <---替换为---> CSRechargeSetup
+类名: CS_PushPostAddCell <---替换为---> CSOverrideCell
+类名: CS_HomePostImageCell <---替换为---> CSAccessCell
+类名: CS_PushPostThumbCell <---替换为---> CSFormSetupCell
+类名: CS_PostDetailPostCell <---替换为---> CSInfoConversationCell
+类名: CS_PostDetailGalleryView <---替换为---> CSLaunchView
+类名: CS_PostDetailCommentCell <---替换为---> CSStateCenterCell
+类名: CS_HomeHeaderView <---替换为---> CSInfoView
+类名: CS_PostDetailVC <---替换为---> CSVideoDelegateController
+类名: CS_StarPostVC <---替换为---> CSLaunchDiscoverController
+类名: CS_HomeVC <---替换为---> CSBaseController
+类名: CS_HomePost <---替换为---> CSColor
+类名: CS_PostComment <---替换为---> CSOverride
+
+
+开始替换所有源文件中的类名。。。。。。
+
+
+
+混淆类名耗时：0.030314922332763672秒
+
+
+混淆图片xml资源耗时：1.0107359886169434秒
+
+
+开始替换宏定义名称。。。。。。
+
+
+
+开始提取所有协议名并生成新协议名。。。。。。
+
+
+开始翻新xib、storyboard控件ID值以及布局微调。。。。。。
+
+
+开始混淆多语言文件的key名称。。。。。。
+
+
+开始自动检测类继承关系。。。。。。
+CSSettingCurrentController : UIViewController
+CSConversationController : UIViewController
+CSPackageToolController : UITabBarController
+CSToolDiscover : UIView
+CSInputController : UIViewController
+CSMainView : UIView
+CSLocalView : UIView
+CSUserView : UIView
+AppDelegate : UIResponder
+CSLoginController : CSConversationController
+CSVideoController : CSConversationController
+CSManagerFormController : CSConversationController
+CSGallerySettingCell : UITableViewCell
+CSStateDelegateCell : UITableViewCell
+CSPackageAuthorCell : UICollectionViewCell
+CSLoginToolView : UIView
+CSPermissionUserController : CSConversationController
+CSCurrentController : CSConversationController
+CSColorController : CSConversationController
+CSVideo : NSObject
+CSHeaderVideoController : CSConversationController
+CSResourceBaseCell : UITableViewCell
+CSLoginCell : UITableViewCell
+CSScriptsThumbCell : UITableViewCell
+CSGalleryController : CSConversationController
+CSEditNetworkController : CSConversationController
+CSFormOverrideController : CSConversationController
+CSAccessMessageController : CSConversationController
+CSManagerPathView : UIView
+CSPushInfoCell : UICollectionViewCell
+CSWelcomeCell : UITableViewCell
+CSKindView : UIView
+CSCapturerLiveController : CSConversationController
+CSContactChatController : CSConversationController
+CSCommentController : CSConversationController
+CSDelegateAvatarController : CSConversationController
+CSPushController : CSConversationController
+CSRoomCell : UITableViewCell
+CSPostController : CSConversationController
+CSGalleryLaunchController : CSConversationController
+CSDataVideoController : CSConversationController
+CSNetworkCapturerCell : UICollectionViewCell
+CSToolDeleteCell : UITableViewCell
+CSRechargeSetup : UIView
+CSOverrideCell : UICollectionViewCell
+CSAccessCell : UICollectionViewCell
+CSFormSetupCell : UICollectionViewCell
+CSInfoConversationCell : UITableViewCell
+CSLaunchView : UIView
+CSStateCenterCell : UITableViewCell
+CSInfoView : UIView
+CSVideoDelegateController : CSConversationController
+CSLaunchDiscoverController : CSConversationController
+CSBaseController : CSConversationController
+
+
+开始自动检测统计所有文件中属性信息。。。。。。
+
+
+开始自动修改Assets图片资源。。。。。。。
+
+Assets图片资源修改结束
+
+
+开始自动修改sks资源名称。。。。。。。
+
+sks资源修改结束
+
+开始打乱函数定义顺序。。。。。。。
+100%👌
+
+
+开始混淆函数里面局部变量名称。。。。。。。
+文件: [旧 CS_PersonVC <--> 新 CSCommentController] 局部变量: tv -> displayView
+文件: [旧 CS_PersonVC <--> 新 CSCommentController] 局部变量: userPosts -> collect
+文件: [旧 CS_PersonVC <--> 新 CSCommentController] 局部变量: width -> modity
+文件: [旧 CS_PersonVC <--> 新 CSCommentController] 局部变量: alert -> package
+文件: [旧 CS_PersonVC <--> 新 CSCommentController] 局部变量: model -> override_i
+文件: [旧 CS_PersonVC <--> 新 CSCommentController] 局部变量: item -> reportItem
+文件: [旧 CS_PersonVC <--> 新 CSCommentController] 局部变量: showsDelete -> request
+文件: [旧 CS_PersonVC <--> 新 CSCommentController] 局部变量: post -> kindK
+文件: [旧 CS_PersonVC <--> 新 CSCommentController] 局部变量: postId -> network
+文件: [旧 CS_PersonVC <--> 新 CSCommentController] 局部变量: model -> override_i
+文件: [旧 CS_DiscoverHeaderView <--> 新 CSLoginToolView] 局部变量: layout -> success
+文件: [旧 CS_DiscoverHeaderView <--> 新 CSLoginToolView] 局部变量: cv -> formView
+文件: [旧 CS_DiscoverHeaderView <--> 新 CSLoginToolView] 局部变量: sources -> records
+文件: [旧 CS_DiscoverHeaderView <--> 新 CSLoginToolView] 局部变量: btn -> photoBtn
+文件: [旧 CS_DiscoverHeaderView <--> 新 CSLoginToolView] 局部变量: selectedBg -> arrow
+文件: [旧 CS_DiscoverHeaderView <--> 新 CSLoginToolView] 局部变量: selectedText -> description_g
+文件: [旧 CS_DiscoverHeaderView <--> 新 CSLoginToolView] 局部变量: normalBg -> credential
+文件: [旧 CS_DiscoverHeaderView <--> 新 CSLoginToolView] 局部变量: normalText -> author
+文件: [旧 CS_ChatRoomMessageCell <--> 新 CSResourceBaseCell] 局部变量: isMe -> container
+文件: [旧 UIColor+Extension <--> 新 CSDetailPush] 局部变量: r -> main_e
+文件: [旧 UIColor+Extension <--> 新 CSDetailPush] 局部变量: g -> live
+文件: [旧 UIColor+Extension <--> 新 CSDetailPush] 局部变量: b -> attr
+文件: [旧 UIColor+Extension <--> 新 CSDetailPush] 局部变量: a -> notify
+文件: [旧 UIViewController+PostDelete <--> 新 CSLive] 局部变量: alert -> package
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: btn -> photoBtn
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: config -> vcs
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: tv -> displayView
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: btn -> photoBtn
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: item -> reportItem
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: player -> network
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: layer -> max_5
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: btn -> photoBtn
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: delay -> welcome
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: timer -> fallback
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: trimmed -> friends
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: appendBlock -> link
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: lastRow -> mock
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: indexPath -> resource
+文件: [旧 CS_LiveVC <--> 新 CSPermissionUserController] 局部变量: name -> url
+文件: [旧 CS_TabBar <--> 新 CSMenuSetting] 局部变量: column -> message
+文件: [旧 CS_TabBar <--> 新 CSMenuSetting] 局部变量: btn -> photoBtn
+文件: [旧 CS_TabBar <--> 新 CSMenuSetting] 局部变量: imageName -> area
+文件: [旧 CS_AddMenuView <--> 新 CSMainView] 局部变量: tap -> prices
+文件: [旧 CS_AddMenuView <--> 新 CSMainView] 局部变量: btn -> photoBtn
+文件: [旧 AppDelegate <--> 新 AppDelegate] 局部变量: launchVC -> packagesController
+文件: [旧 CS_UserListStorage <--> 新 CSDelegateItem] 局部变量: followers -> top
+文件: [旧 CS_UserListStorage <--> 新 CSDelegateItem] 局部变量: followingSet -> outdoor
+文件: [旧 CS_UserListStorage <--> 新 CSDelegateItem] 局部变量: following -> permission
+文件: [旧 CS_UserListStorage <--> 新 CSDelegateItem] 局部变量: followerSet -> img
+文件: [旧 CS_UserListStorage <--> 新 CSDelegateItem] 局部变量: following -> permission
+文件: [旧 CS_UserListStorage <--> 新 CSDelegateItem] 局部变量: following -> permission
+文件: [旧 CS_UserListStorage <--> 新 CSDelegateItem] 局部变量: list -> message
+文件: [旧 CS_UserListStorage <--> 新 CSDelegateItem] 局部变量: list -> message
+文件: [旧 CS_UserListStorage <--> 新 CSDelegateItem] 局部变量: all -> media
+文件: [旧 CS_UserListStorage <--> 新 CSDelegateItem] 局部变量: following -> permission
+文件: [旧 CS_UserListStorage <--> 新 CSDelegateItem] 局部变量: followers -> top
+文件: [旧 CS_HomeHeaderView <--> 新 CSInfoView] 局部变量: v -> main_nView
+文件: [旧 CS_HomeHeaderView <--> 新 CSInfoView] 局部变量: btn -> photoBtn
+文件: [旧 CS_HomeHeaderView <--> 新 CSInfoView] 局部变量: btn -> photoBtn
+文件: [旧 CS_HomeHeaderView <--> 新 CSInfoView] 局部变量: v -> main_nView
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: dir -> screen
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: trimmed -> friends
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: candidates -> dirl
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: documents -> only
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: fileName -> style
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: dir -> screen
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: trimmed -> friends
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: trimmed -> friends
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: candidates -> dirl
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: documents -> only
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: base -> store
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: fileExt -> ids
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: image -> signImage
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: fileName -> style
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: base -> store
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: ext -> attr
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: fileName -> style
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: base -> store
+文件: [旧 CS_ResourcePath <--> 新 CSLaunch] 局部变量: ext -> attr
+文件: [旧 CS_ProfileHeaderView <--> 新 CSManagerPathView] 局部变量: btn -> photoBtn
+文件: [旧 CS_ProfileHeaderView <--> 新 CSManagerPathView] 局部变量: btn -> photoBtn
+文件: [旧 CS_ProfileHeaderView <--> 新 CSManagerPathView] 局部变量: count -> more
+文件: [旧 CS_ProfileHeaderView <--> 新 CSManagerPathView] 局部变量: requestCount -> enabled
+文件: [旧 CS_ProfileHeaderView <--> 新 CSManagerPathView] 局部变量: gemTap -> fallback
+文件: [旧 CS_ProfileHeaderView <--> 新 CSManagerPathView] 局部变量: avatarTap -> network
+文件: [旧 CS_ProfileHeaderView <--> 新 CSManagerPathView] 局部变量: valueLabel -> rawLabel
+文件: [旧 CS_ProfileHeaderView <--> 新 CSManagerPathView] 局部变量: titleLabel -> optionsLabel
+文件: [旧 CS_ProfileHeaderView <--> 新 CSManagerPathView] 局部变量: stack -> comment
+文件: [旧 CS_ProfileHeaderView <--> 新 CSManagerPathView] 局部变量: tap -> prices
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: tv -> displayView
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: text -> group
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: attr -> field
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: userRange -> trimmed
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: privacyRange -> found
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: paragraph -> modity
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: btn -> photoBtn
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: provider -> cell
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: request -> name
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: controller -> createController
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: formatter -> mode
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: name -> url
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: appleUserId -> arrow
+文件: [旧 CS_WelcomeVC <--> 新 CSLoginController] 局部变量: suggestedName -> fallback
+文件: [旧 CS_LocalCameraCapturer <--> 新 CSVideo] 局部变量: camera -> audioA
+文件: [旧 CS_LocalCameraCapturer <--> 新 CSVideo] 局部变量: videoInput -> settings
+文件: [旧 CS_LocalCameraCapturer <--> 新 CSVideo] 局部变量: mic -> screen
+文件: [旧 CS_LocalCameraCapturer <--> 新 CSVideo] 局部变量: micInput -> micH
+文件: [旧 CS_LocalCameraCapturer <--> 新 CSVideo] 局部变量: layer -> max_5
+文件: [旧 CS_LocalCameraCapturer <--> 新 CSVideo] 局部变量: session -> modity
+文件: [旧 CS_ReportVC <--> 新 CSContactChatController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ReportVC <--> 新 CSContactChatController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ReportVC <--> 新 CSContactChatController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ReportVC <--> 新 CSContactChatController] 局部变量: shouldNotify -> send
+文件: [旧 CS_ReportVC <--> 新 CSContactChatController] 局部变量: selected -> updated
+文件: [旧 CS_ReportVC <--> 新 CSContactChatController] 局部变量: btn -> photoBtn
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: layout -> success
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: cv -> formView
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: reportTap -> test
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: avatarTap -> network
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: likeWrap -> capturer
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: commentWrap -> backE
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: collectWrap -> hnew_yu
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: isOwnPost -> tap
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: count -> more
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: visible -> stats
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: spacing -> morei
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: width -> modity
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: name -> url
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: name -> url
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: name -> url
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: v -> main_nView
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: stack -> comment
+文件: [旧 CS_HomePostCell <--> 新 CSToolDeleteCell] 局部变量: color -> action
+文件: [旧 CS_VideoThumbnail <--> 新 CSData] 局部变量: image -> signImage
+文件: [旧 CS_VideoThumbnail <--> 新 CSData] 局部变量: asset -> mic
+文件: [旧 CS_VideoThumbnail <--> 新 CSData] 局部变量: generator -> base
+文件: [旧 CS_AIChatRoomVC <--> 新 CSColorController] 局部变量: btn -> photoBtn
+文件: [旧 CS_AIChatRoomVC <--> 新 CSColorController] 局部变量: tv -> displayView
+文件: [旧 CS_AIChatRoomVC <--> 新 CSColorController] 局部变量: btn -> photoBtn
+文件: [旧 CS_AIChatRoomVC <--> 新 CSColorController] 局部变量: work -> logged
+文件: [旧 CS_AIChatRoomVC <--> 新 CSColorController] 局部变量: delay -> welcome
+文件: [旧 CS_AIChatRoomVC <--> 新 CSColorController] 局部变量: text -> group
+文件: [旧 CS_AIChatRoomVC <--> 新 CSColorController] 局部变量: indexPath -> resource
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: btn -> photoBtn
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: btn -> photoBtn
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: tv -> displayView
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: tv -> displayView
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: btn -> photoBtn
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: userName -> top
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: signature -> color
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: didLogin -> now
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: finalSignature -> extension_n
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: path -> register_k
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: suggestedName -> fallback
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: config -> vcs
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: picker -> record
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: tf -> unread
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: text -> group
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: linkText -> key
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: attr -> field
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: range -> z_title
+文件: [旧 CS_SetupInfoVC <--> 新 CSManagerFormController] 局部变量: paragraph -> modity
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: btn -> photoBtn
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: btn -> photoBtn
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: tv -> displayView
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: btn -> photoBtn
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: imageName -> area
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: label -> popLabel
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: email -> folder
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: password -> posts
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: v -> main_nView
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: text -> group
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: linkText -> key
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: linkURL -> created
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: attr -> field
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: range -> z_title
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: paragraph -> modity
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: imageName -> area
+文件: [旧 CS_SetupFormVC <--> 新 CSVideoController] 局部变量: tf -> unread
+文件: [旧 CS_PushPostThumbCell <--> 新 CSFormSetupCell] 局部变量: btn -> photoBtn
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: base -> store
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: withLikes -> end
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: withCollects -> button
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: withComments -> join
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: withAuthors -> inverse
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: withFollowing -> audio
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: blocked -> resource
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: updated -> trimmed
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: followingIds -> outdoor
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: currentUserId -> change
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: updated -> trimmed
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: map -> absolute
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: published -> logged
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: didChange -> storeK
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: overrides -> warning
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: updated -> trimmed
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: map -> absolute
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: ids -> back
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: reported -> secondary
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: updated -> trimmed
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: list -> message
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: list -> message
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: newLiked -> access
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: newCount -> l_layer
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: states -> normal
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: states -> normal
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: updated -> trimmed
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: states -> normal
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: newCollected -> w_height
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: states -> normal
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: states -> normal
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: updated -> trimmed
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: states -> normal
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: list -> message
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: trimmed -> friends
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: comment -> friend_w2
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: map -> absolute
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: list -> message
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: extras -> discover
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: updated -> trimmed
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: map -> absolute
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: formatter -> mode
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: list -> message
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: extras -> discover
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: filtered -> normalized
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: overrides -> warning
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: list -> message
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: post -> kindK
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: likes -> room
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: collects -> current
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: extras -> discover
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: reported -> secondary
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: fm -> friend_u
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: dir -> screen
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: absolute -> load
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: posts -> ext
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: migrated -> record
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: updated -> trimmed
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: fileName -> style
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: url -> built
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: coverFileName -> max_jo
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: videoFileName -> seconds
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: coverURL -> signature
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: destVideoURL -> override_m
+文件: [旧 UserData <--> 新 CSMediaKind] 局部变量: accessed -> save
+文件: [旧 CS_ContactVC <--> 新 CSCapturerLiveController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ContactVC <--> 新 CSCapturerLiveController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ContactVC <--> 新 CSCapturerLiveController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ContactVC <--> 新 CSCapturerLiveController] 局部变量: encoded -> addu
+文件: [旧 CS_DiscoverLiveCell <--> 新 CSPackageAuthorCell] 局部变量: gradient -> bottom
+文件: [旧 CS_VideoRoomVC <--> 新 CSGalleryController] 局部变量: btn -> photoBtn
+文件: [旧 CS_VideoRoomVC <--> 新 CSGalleryController] 局部变量: btn -> photoBtn
+文件: [旧 CS_VideoRoomVC <--> 新 CSGalleryController] 局部变量: btn -> photoBtn
+文件: [旧 CS_VideoRoomVC <--> 新 CSGalleryController] 局部变量: btn -> photoBtn
+文件: [旧 CS_VideoRoomVC <--> 新 CSGalleryController] 局部变量: vc -> mockController
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: btn -> photoBtn
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: layout -> success
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: cv -> formView
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: tv -> displayView
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: btn -> photoBtn
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: items -> screen
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: currentCount -> path
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: config -> vcs
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: picker -> record
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: config -> vcs
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: picker -> record
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: message -> nnews
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: postId -> network
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: media -> collection
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: paths -> greeting
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: saved -> liked
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: tag -> you
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: formatter -> mode
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: item -> reportItem
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: images -> authors
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: group -> action
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: provider -> cell
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: movieType -> hang
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: tempURL -> options
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: accessed -> save
+文件: [旧 CS_PushPostVC <--> 新 CSDataVideoController] 局部变量: thumb -> user
+文件: [旧 CS_EditVC <--> 新 CSPostController] 局部变量: btn -> photoBtn
+文件: [旧 CS_EditVC <--> 新 CSPostController] 局部变量: btn -> photoBtn
+文件: [旧 CS_EditVC <--> 新 CSPostController] 局部变量: tv -> displayView
+文件: [旧 CS_EditVC <--> 新 CSPostController] 局部变量: btn -> photoBtn
+文件: [旧 CS_EditVC <--> 新 CSPostController] 局部变量: userName -> top
+文件: [旧 CS_EditVC <--> 新 CSPostController] 局部变量: signature -> color
+文件: [旧 CS_EditVC <--> 新 CSPostController] 局部变量: avatarPath -> textm
+文件: [旧 CS_EditVC <--> 新 CSPostController] 局部变量: finalSignature -> extension_n
+文件: [旧 CS_EditVC <--> 新 CSPostController] 局部变量: config -> vcs
+文件: [旧 CS_EditVC <--> 新 CSPostController] 局部变量: picker -> record
+文件: [旧 CS_EditVC <--> 新 CSPostController] 局部变量: tf -> unread
+文件: [旧 CS_PopView <--> 新 CSLocalView] 局部变量: btn -> photoBtn
+文件: [旧 CS_PopView <--> 新 CSLocalView] 局部变量: finish -> package
+文件: [旧 CS_PopView <--> 新 CSLocalView] 局部变量: pop -> qnew_9n
+文件: [旧 CS_PopView <--> 新 CSLocalView] 局部变量: host -> discover
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: summaries -> filtered
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: list -> messageL
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: list -> messageL
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: summaries -> filtered
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: existing -> login
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: greeting -> queue
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: summaries -> filtered
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: list -> messageL
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: summaries -> filtered
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: date -> data
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: seconds -> default_9u
+文件: [旧 CS_ChatStorage <--> 新 CSEditHome] 局部变量: formatter -> mode
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: image -> signImage
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: isOwnPost -> tap
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: name -> url
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: name -> url
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: avatarTap -> network
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: likeWrap -> capturer
+文件: [旧 CS_DiscoverFeedCell <--> 新 CSStateDelegateCell] 局部变量: name -> url
+文件: [旧 CS_ChatRoomVC <--> 新 CSHeaderVideoController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ChatRoomVC <--> 新 CSHeaderVideoController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ChatRoomVC <--> 新 CSHeaderVideoController] 局部变量: tv -> displayView
+文件: [旧 CS_ChatRoomVC <--> 新 CSHeaderVideoController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ChatRoomVC <--> 新 CSHeaderVideoController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ChatRoomVC <--> 新 CSHeaderVideoController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ChatRoomVC <--> 新 CSHeaderVideoController] 局部变量: indexPath -> resource
+文件: [旧 CS_ChatRoomVC <--> 新 CSHeaderVideoController] 局部变量: text -> group
+文件: [旧 CS_ChatRoomVC <--> 新 CSHeaderVideoController] 局部变量: message -> nnews
+文件: [旧 CS_ChatRoomVC <--> 新 CSHeaderVideoController] 局部变量: alert -> package
+文件: [旧 CS_ChatRoomVC <--> 新 CSHeaderVideoController] 局部变量: message -> nnews
+文件: [旧 CS_SettingVC <--> 新 CSPushController] 局部变量: btn -> photoBtn
+文件: [旧 CS_SettingVC <--> 新 CSPushController] 局部变量: tv -> displayView
+文件: [旧 CS_SettingVC <--> 新 CSPushController] 局部变量: alert -> package
+文件: [旧 CS_SettingVC <--> 新 CSPushController] 局部变量: alert -> package
+文件: [旧 CS_SettingVC <--> 新 CSPushController] 局部变量: item -> reportItem
+文件: [旧 CS_VideoVC <--> 新 CSGalleryLaunchController] 局部变量: btn -> photoBtn
+文件: [旧 CS_VideoVC <--> 新 CSGalleryLaunchController] 局部变量: btn -> photoBtn
+文件: [旧 CS_VideoVC <--> 新 CSGalleryLaunchController] 局部变量: tap -> prices
+文件: [旧 CS_VideoVC <--> 新 CSGalleryLaunchController] 局部变量: url -> built
+文件: [旧 CS_VideoVC <--> 新 CSGalleryLaunchController] 局部变量: item -> reportItem
+文件: [旧 CS_VideoVC <--> 新 CSGalleryLaunchController] 局部变量: player -> network
+文件: [旧 CS_VideoVC <--> 新 CSGalleryLaunchController] 局部变量: layer -> max_5
+文件: [旧 CS_ChatListCell <--> 新 CSScriptsThumbCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_PostDetailInputBar <--> 新 CSRechargeSetup] 局部变量: btn -> photoBtn
+文件: [旧 CS_PostDetailInputBar <--> 新 CSRechargeSetup] 局部变量: text -> group
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: avatarTap -> network
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: likeWrap -> capturer
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: commentWrap -> backE
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: collectWrap -> hnew_yu
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: v -> main_nView
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: name -> url
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: stack -> comment
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: name -> url
+文件: [旧 CS_PostDetailPostCell <--> 新 CSInfoConversationCell] 局部变量: name -> url
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: tv -> displayView
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: followingIds -> outdoor
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: width -> modity
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: all -> media
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: models -> detail
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: postId -> network
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: models -> detail
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: postId -> network
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: models -> detail
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: models -> detail
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: userId -> storage
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: isFollowing -> detailz
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: models -> detail
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: postId -> network
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: isCollected -> bottom
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: models -> detail
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: postId -> network
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: reportVC -> commentsController
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: item -> reportItem
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: model -> override_i
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: showsDelete -> request
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: post -> kindK
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: models -> detail
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: detailVC -> with_uuController
+文件: [旧 CS_DiscoverVC <--> 新 CSCurrentController] 局部变量: models -> detail
+文件: [旧 CS_ProfileVC <--> 新 CSDelegateAvatarController] 局部变量: tv -> displayView
+文件: [旧 CS_ProfileVC <--> 新 CSDelegateAvatarController] 局部变量: userPosts -> collect
+文件: [旧 CS_ProfileVC <--> 新 CSDelegateAvatarController] 局部变量: width -> modity
+文件: [旧 CS_ProfileVC <--> 新 CSDelegateAvatarController] 局部变量: postId -> network
+文件: [旧 CS_ProfileVC <--> 新 CSDelegateAvatarController] 局部变量: model -> override_i
+文件: [旧 CS_ProfileVC <--> 新 CSDelegateAvatarController] 局部变量: model -> override_i
+文件: [旧 CS_ProfileVC <--> 新 CSDelegateAvatarController] 局部变量: item -> reportItem
+文件: [旧 CS_ProfileVC <--> 新 CSDelegateAvatarController] 局部变量: post -> kindK
+文件: [旧 CS_ProfileVC <--> 新 CSDelegateAvatarController] 局部变量: isOwn -> empty
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: v -> main_nView
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: v -> main_nView
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: btn -> photoBtn
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: tv -> displayView
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: btn -> photoBtn
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: model -> override_i
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: model -> override_i
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: item -> reportItem
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: model -> override_i
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: showsDelete -> request
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: post -> kindK
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: userId -> storage
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: isFollowing -> detailz
+文件: [旧 CS_StarPostVC <--> 新 CSLaunchDiscoverController] 局部变量: reportVC -> commentsController
+文件: [旧 CS_PostDetailCommentCell <--> 新 CSStateCenterCell] 局部变量: avatarTap -> network
+文件: [旧 CS_MediaPermission <--> 新 CSExtensionMedia] 局部变量: status -> requestPf
+文件: [旧 CS_MediaPermission <--> 新 CSExtensionMedia] 局部变量: alert -> package
+文件: [旧 CS_UserListVC <--> 新 CSFormOverrideController] 局部变量: btn -> photoBtn
+文件: [旧 CS_UserListVC <--> 新 CSFormOverrideController] 局部变量: tv -> displayView
+文件: [旧 CS_UserListVC <--> 新 CSFormOverrideController] 局部变量: user -> capturer
+文件: [旧 CS_UserListVC <--> 新 CSFormOverrideController] 局部变量: user -> capturer
+文件: [旧 CS_UserListVC <--> 新 CSFormOverrideController] 局部变量: style -> rgb
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: data -> dismiss
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: saved -> liked
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: nav -> controlView
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: targetWindow -> alert
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: normalizedEmail -> u_tag
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: pwd -> data
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: model -> override_i
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: records -> http
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: normalizedEmail -> u_tag
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: pwd -> data
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: users -> column
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: model -> override_i
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: userId -> storage
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: avatarPath -> textm
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: legacyAvatarPath -> waiting
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: users -> column
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: records -> http
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: url -> built
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: legacy -> network
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: users -> column
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: records -> http
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: stored -> set
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: image -> signImage
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: relative -> did
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: users -> column
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: records -> http
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: suffix -> des
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: start -> matched
+文件: [旧 CS_CurrentUser <--> 新 CSDeleteForm] 局部变量: end -> completion
+文件: [旧 CS_PostDetailGalleryView <--> 新 CSLaunchView] 局部变量: layout -> success
+文件: [旧 CS_PostDetailGalleryView <--> 新 CSLaunchView] 局部变量: cv -> formView
+文件: [旧 CS_PostDetailGalleryView <--> 新 CSLaunchView] 局部变量: btn -> photoBtn
+文件: [旧 CS_PostDetailGalleryView <--> 新 CSLaunchView] 局部变量: v -> main_nView
+文件: [旧 CS_PostDetailGalleryView <--> 新 CSLaunchView] 局部变量: count -> more
+文件: [旧 CS_PostDetailGalleryView <--> 新 CSLaunchView] 局部变量: width -> modity
+文件: [旧 CS_PostDetailGalleryView <--> 新 CSLaunchView] 局部变量: page -> panel
+文件: [旧 CS_PostDetailGalleryView <--> 新 CSLaunchView] 局部变量: tap -> prices
+文件: [旧 CS_PostDetailGalleryView <--> 新 CSLaunchView] 局部变量: videoPath -> tab
+文件: [旧 CS_PostDetailGalleryView <--> 新 CSLaunchView] 局部变量: visible -> stats
+文件: [旧 CS_PostDetailVC <--> 新 CSVideoDelegateController] 局部变量: tv -> displayView
+文件: [旧 CS_PostDetailVC <--> 新 CSVideoDelegateController] 局部变量: paths -> greeting
+文件: [旧 CS_PostDetailVC <--> 新 CSVideoDelegateController] 局部变量: videoVC -> currentController
+文件: [旧 CS_PostDetailVC <--> 新 CSVideoDelegateController] 局部变量: trimmed -> friends
+文件: [旧 CS_PostDetailVC <--> 新 CSVideoDelegateController] 局部变量: newComment -> feed
+文件: [旧 CS_PostDetailVC <--> 新 CSVideoDelegateController] 局部变量: indexPath -> resource
+文件: [旧 CS_PostDetailVC <--> 新 CSVideoDelegateController] 局部变量: isFollowing -> detailz
+文件: [旧 CS_PostDetailVC <--> 新 CSVideoDelegateController] 局部变量: collected -> submit
+文件: [旧 CS_PostDetailVC <--> 新 CSVideoDelegateController] 局部变量: reportVC -> commentsController
+文件: [旧 CS_PostDetailVC <--> 新 CSVideoDelegateController] 局部变量: comment -> friend_w2
+文件: [旧 CS_PostDetailVC <--> 新 CSVideoDelegateController] 局部变量: text -> group
+文件: [旧 CS_ChatVC <--> 新 CSEditNetworkController] 局部变量: btn -> photoBtn
+文件: [旧 CS_ChatVC <--> 新 CSEditNetworkController] 局部变量: config -> vcs
+文件: [旧 CS_ChatVC <--> 新 CSEditNetworkController] 局部变量: outgoing -> should
+文件: [旧 CS_ChatVC <--> 新 CSEditNetworkController] 局部变量: tv -> displayView
+文件: [旧 CS_ChatVC <--> 新 CSEditNetworkController] 局部变量: userId -> storage
+文件: [旧 CS_UserListCell <--> 新 CSWelcomeCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_UserListCell <--> 新 CSWelcomeCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_RechargePackageCell <--> 新 CSPushInfoCell] 局部变量: formatter -> mode
+文件: [旧 CS_NetworkTool <--> 新 CSHome] 局部变量: normalizedPath -> warning
+文件: [旧 CS_NetworkTool <--> 新 CSHome] 局部变量: request -> name
+文件: [旧 CS_NetworkTool <--> 新 CSHome] 局部变量: nsError -> collection
+文件: [旧 UIViewController+Person <--> 新 CSScreenEmpty] 局部变量: following -> permission
+文件: [旧 UIViewController+Person <--> 新 CSScreenEmpty] 局部变量: user -> capturer
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: tv -> displayView
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: width -> modity
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: postId -> network
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: reportVC -> commentsController
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: detailVC -> with_uuController
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: postId -> network
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: model -> override_i
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: userId -> storage
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: isFollowing -> detailz
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: item -> reportItem
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: model -> override_i
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: showsDelete -> request
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: post -> kindK
+文件: [旧 CS_HomeVC <--> 新 CSBaseController] 局部变量: model -> override_i
+文件: [旧 CS_TabBarVC <--> 新 CSPackageToolController] 局部变量: v -> main_nView
+文件: [旧 CS_TabBarVC <--> 新 CSPackageToolController] 局部变量: btn -> photoBtn
+文件: [旧 CS_TabBarVC <--> 新 CSPackageToolController] 局部变量: barHeight -> o_layer
+文件: [旧 CS_TabBarVC <--> 新 CSPackageToolController] 局部变量: apply -> apple
+文件: [旧 CS_TabBarVC <--> 新 CSPackageToolController] 局部变量: height -> field
+文件: [旧 CS_TabBarVC <--> 新 CSPackageToolController] 局部变量: nav -> controlView
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: btn -> photoBtn
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: layout -> success
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: cv -> formView
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: formatter -> mode
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: products -> liked
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: prices -> authors
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: message -> nnews
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: package -> finish
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: price -> camera
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: inset -> waiting
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: spacing -> morei
+文件: [旧 CS_RechargeVC <--> 新 CSAccessMessageController] 局部变量: width -> modity
+文件: [旧 CS_IAPManager <--> 新 CSConversation] 局部变量: products -> liked
+文件: [旧 CS_IAPManager <--> 新 CSConversation] 局部变量: product -> resource
+文件: [旧 CS_IAPManager <--> 新 CSConversation] 局部变量: transaction -> custom
+文件: [旧 CS_IAPManager <--> 新 CSConversation] 局部变量: transaction -> custom
+文件: [旧 CS_IAPManager <--> 新 CSConversation] 局部变量: transactionID -> switch_v
+文件: [旧 CS_IAPManager <--> 新 CSConversation] 局部变量: ids -> back
+文件: [旧 CS_PushPostAddCell <--> 新 CSOverrideCell] 局部变量: btn -> photoBtn
+文件: [旧 CS_LiveChatCell <--> 新 CSGallerySettingCell] 局部变量: attr -> field
+文件: [旧 CS_PersonHeaderView <--> 新 CSKindView] 局部变量: btn -> photoBtn
+文件: [旧 CS_PersonHeaderView <--> 新 CSKindView] 局部变量: btn -> photoBtn
+文件: [旧 CS_PersonHeaderView <--> 新 CSKindView] 局部变量: btn -> photoBtn
+文件: [旧 CS_PersonHeaderView <--> 新 CSKindView] 局部变量: btn -> photoBtn
+文件: [旧 CS_PersonHeaderView <--> 新 CSKindView] 局部变量: image -> signImage
+文件: [旧 CS_PersonHeaderView <--> 新 CSKindView] 局部变量: fallback -> nav
+文件: [旧 CS_PersonHeaderView <--> 新 CSKindView] 局部变量: name -> url
+文件: [旧 CS_PersonHeaderView <--> 新 CSKindView] 局部变量: valueLabel -> rawLabel
+文件: [旧 CS_PersonHeaderView <--> 新 CSKindView] 局部变量: titleLabel -> optionsLabel
+文件: [旧 CS_PersonHeaderView <--> 新 CSKindView] 局部变量: stack -> comment
+
+
+开始自动生成垃圾代码文件。。。。。。。
+100%👌
+
+
+开始自动融合生成的垃圾代码文件。。。。。。
+100%👌
+
+
+开始自动加密混淆字符串。。。。。。。
+"https://api.fiveukmedia.xyz"
+"https://docs.google.com/document/d/1CmO8l5rrIZggkqr5wD3aovAso8irp9-3TAnEuvpVfEE/edit?usp=sharing"
+"https://docs.google.com/document/d/17DD9lTQKn5n48hthgciihUevft-jEFiQrxf8S_0zSsI/edit?usp=sharing"
+"https://docs.google.com/document/d/17DD9lTQKn5n48hthgciihUevft-jEFiQrxf8S_0zSsI/edit?usp=sharing"
+"https://docs.google.com/document/d/1CmO8l5rrIZggkqr5wD3aovAso8irp9-3TAnEuvpVfEE/edit?usp=sharing"
+
+
+开始融合并调用生成的垃圾代码文件函数或者类。。。。。。。
+100%👌
+
+开始扰乱改变函数里面执行顺序。。。。。。。
+100%👌
+
+
+开始生成新混淆源文件。。。。。。。
+100%👌
+
+
+开始自动更新项目配置。。。。。。。
+100%👌
