@@ -1,0 +1,524 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7B2709Q00L8457XG36R60F03 /* Pods_camping.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F640QB87851B297RG1O5ADTL /* Pods_camping.framework */; };
+		FV946428K7H155U94Y9EO8E9 /* CSLiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = XK15A22423FVY8VADIS59380 /* CSLiveView.swift */; };
+		GE914R135RM982X140X6R876 /* CSDetailAuthorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = NNW2H02W4G82R04H2K4FR745 /* CSDetailAuthorController.swift */; };
+		GW6SB9O7S003182PL2111S75 /* CSImageProfileObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = XS65T7J0E74443BJ7182738P /* CSImageProfileObject.swift */; };
+		HK50DF34T410966XRWO57Q24 /* CSDeleteController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BG428VBR09H31T6K2743O825 /* CSDeleteController.swift */; };
+		HK51R695I10406V890754L35 /* CSRegisterSetupController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AWUJ7SVP20262503332HG631 /* CSRegisterSetupController.swift */; };
+		HQ61177S94354Z44A85ON8G7 /* CSSetupProfileController.swift in Sources */ = {isa = PBXBuildFile; fileRef = RR93PG5305740033634VAK68 /* CSSetupProfileController.swift */; };
+		JGA80G0R9U3269NN0O87207V /* CSGalleryObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC4H11330W7D804103F6CV01 /* CSGalleryObject.swift */; };
+		JM215393654I850651Y8V6Z6 /* CSMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CGK159JD554579305U1UO4R6 /* CSMenuView.swift */; };
+		JX4R32146399GVQ51964K838 /* CSPathObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = RA8551L8WA8G972548495G57 /* CSPathObject.swift */; };
+		KT55Y34ZS8IG652B5137J730 /* CSDataObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = YK207JL3K1868Q0524068065 /* CSDataObject.swift */; };
+		LWL2YJNQQ416155072FE75O6 /* CSMessageMediaObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = VH374C49R683K40757S800T7 /* CSMessageMediaObject.swift */; };
+		NB21B171009974M520H5529Y /* CSSettingObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = QC65K16I01M2I562U0HN1882 /* CSSettingObject.swift */; };
+		NQD426IWHCK8Y89G4D5RC6DQ /* CSInputAvatarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = XOUU31505W26J7870XT0VA72 /* CSInputAvatarController.swift */; };
+		PK1R86DJ781728Q8LS63G54O /* CSMenuMessageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = GR1AS6E9X45AJC7960R8D979 /* CSMenuMessageController.swift */; };
+		PW1V302N586Y67030484103C /* CSNewsFeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AY3R19W5F455433D22L6179I /* CSNewsFeedView.swift */; };
+		UO16U84I190P07A4274A3X04 /* CSExtensionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = VA741911949EI963N60VS833 /* CSExtensionController.swift */; };
+		XW74946PA9M5GPYG145T9L55 /* CSUserColorObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = CWU3RJWA84628KS3152K0880 /* CSUserColorObject.swift */; };
+		ZX3547250A56GO656058VAUV /* CSManagerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = STM3X900D0E52HT4627U0426 /* CSManagerController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		04DM35V08QXC15Q1UA48180C /* camping.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = camping.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		60C1EC780UKJ697I29MXN5C7 /* Pods-camping.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-camping.release.xcconfig"; path = "Target Support Files/Pods-camping/Pods-camping.release.xcconfig"; sourceTree = "<group>"; };
+		6FS603S5L9CRA008Y3533Z9H /* Pods-camping.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-camping.debug.xcconfig"; path = "Target Support Files/Pods-camping/Pods-camping.debug.xcconfig"; sourceTree = "<group>"; };
+		AWUJ7SVP20262503332HG631 /* CSRegisterSetupController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSRegisterSetupController.swift; sourceTree = "<group>"; };
+		AY3R19W5F455433D22L6179I /* CSNewsFeedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSNewsFeedView.swift; sourceTree = "<group>"; };
+		BG428VBR09H31T6K2743O825 /* CSDeleteController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSDeleteController.swift; sourceTree = "<group>"; };
+		CC4H11330W7D804103F6CV01 /* CSGalleryObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSGalleryObject.swift; sourceTree = "<group>"; };
+		CGK159JD554579305U1UO4R6 /* CSMenuView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSMenuView.swift; sourceTree = "<group>"; };
+		CWU3RJWA84628KS3152K0880 /* CSUserColorObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSUserColorObject.swift; sourceTree = "<group>"; };
+		F640QB87851B297RG1O5ADTL /* Pods_camping.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_camping.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		GR1AS6E9X45AJC7960R8D979 /* CSMenuMessageController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSMenuMessageController.swift; sourceTree = "<group>"; };
+		NNW2H02W4G82R04H2K4FR745 /* CSDetailAuthorController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSDetailAuthorController.swift; sourceTree = "<group>"; };
+		QC65K16I01M2I562U0HN1882 /* CSSettingObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSSettingObject.swift; sourceTree = "<group>"; };
+		RA8551L8WA8G972548495G57 /* CSPathObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSPathObject.swift; sourceTree = "<group>"; };
+		RR93PG5305740033634VAK68 /* CSSetupProfileController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSSetupProfileController.swift; sourceTree = "<group>"; };
+		STM3X900D0E52HT4627U0426 /* CSManagerController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSManagerController.swift; sourceTree = "<group>"; };
+		VA741911949EI963N60VS833 /* CSExtensionController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSExtensionController.swift; sourceTree = "<group>"; };
+		VH374C49R683K40757S800T7 /* CSMessageMediaObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSMessageMediaObject.swift; sourceTree = "<group>"; };
+		XK15A22423FVY8VADIS59380 /* CSLiveView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSLiveView.swift; sourceTree = "<group>"; };
+		XOUU31505W26J7870XT0VA72 /* CSInputAvatarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSInputAvatarController.swift; sourceTree = "<group>"; };
+		XS65T7J0E74443BJ7182738P /* CSImageProfileObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSImageProfileObject.swift; sourceTree = "<group>"; };
+		YK207JL3K1868Q0524068065 /* CSDataObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSDataObject.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		047872VB9WL50166ET863685 /* Exceptions for "camping" folder in "camping" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 043LIC2976GF9N609I23571T /* camping */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		0469A1V4R57HT36TB4A48235 /* camping */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				047872VB9WL50166ET863685 /* Exceptions for "camping" folder in "camping" target */,
+			);
+			path = camping;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		040B2397877287742819Y0C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7B2709Q00L8457XG36R60F03 /* Pods_camping.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		043O102JP6EMQM7D5FY59382 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04DM35V08QXC15Q1UA48180C /* camping.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04P61X08V6613D8A42GM205I = {
+			isa = PBXGroup;
+			children = (
+				0469A1V4R57HT36TB4A48235 /* camping */,
+				043O102JP6EMQM7D5FY59382 /* Products */,
+				1A9I735K1401256O6F2O7922 /* Pods */,
+				AB268D7P4O14Z65794X90F5Y /* Frameworks */,
+				DW8087I2275304INJ83J6WF3 /* compitable */,
+			);
+			sourceTree = "<group>";
+		};
+		1A9I735K1401256O6F2O7922 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6FS603S5L9CRA008Y3533Z9H /* Pods-camping.debug.xcconfig */,
+				60C1EC780UKJ697I29MXN5C7 /* Pods-camping.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		AB268D7P4O14Z65794X90F5Y /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F640QB87851B297RG1O5ADTL /* Pods_camping.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DW8087I2275304INJ83J6WF3 /* compitable */ = {
+			isa = PBXGroup;
+			children = (
+				GR1AS6E9X45AJC7960R8D979 /* CSMenuMessageController.swift */,
+				VH374C49R683K40757S800T7 /* CSMessageMediaObject.swift */,
+				BG428VBR09H31T6K2743O825 /* CSDeleteController.swift */,
+				AY3R19W5F455433D22L6179I /* CSNewsFeedView.swift */,
+				XS65T7J0E74443BJ7182738P /* CSImageProfileObject.swift */,
+				XK15A22423FVY8VADIS59380 /* CSLiveView.swift */,
+				CGK159JD554579305U1UO4R6 /* CSMenuView.swift */,
+				RR93PG5305740033634VAK68 /* CSSetupProfileController.swift */,
+				AWUJ7SVP20262503332HG631 /* CSRegisterSetupController.swift */,
+				NNW2H02W4G82R04H2K4FR745 /* CSDetailAuthorController.swift */,
+				YK207JL3K1868Q0524068065 /* CSDataObject.swift */,
+				CWU3RJWA84628KS3152K0880 /* CSUserColorObject.swift */,
+				RA8551L8WA8G972548495G57 /* CSPathObject.swift */,
+				STM3X900D0E52HT4627U0426 /* CSManagerController.swift */,
+				QC65K16I01M2I562U0HN1882 /* CSSettingObject.swift */,
+				VA741911949EI963N60VS833 /* CSExtensionController.swift */,
+				XOUU31505W26J7870XT0VA72 /* CSInputAvatarController.swift */,
+				CC4H11330W7D804103F6CV01 /* CSGalleryObject.swift */,
+			);
+			path = compitable;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		043LIC2976GF9N609I23571T /* camping */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04379P5D8308S8J06R309356 /* Build configuration list for PBXNativeTarget "camping" */;
+			buildPhases = (
+				90925266L92N1170F4F394V4 /* [CP] Check Pods Manifest.lock */,
+				040JG3F7Z714609A789ZZ85Z /* Sources */,
+				040B2397877287742819Y0C7 /* Frameworks */,
+				04Y59W07WM36D00R36689Q71 /* Resources */,
+				5076YE711F8O1M193250ML94 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				0469A1V4R57HT36TB4A48235 /* camping */,
+			);
+			name = camping;
+			productName = camping;
+			productReference = 04DM35V08QXC15Q1UA48180C /* camping.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04Y1CW3O7TDFH998883511V7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				CLASSPREFIX = CS_;
+				LastSwiftUpdateCheck = 2620;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					043LIC2976GF9N609I23571T = {
+						CreatedOnToolsVersion = 26.2;
+					};
+				};
+			};
+			buildConfigurationList = 04189441135YK7N8582A4D2Q /* Build configuration list for PBXProject "camping" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 04P61X08V6613D8A42GM205I;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 043O102JP6EMQM7D5FY59382 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				043LIC2976GF9N609I23571T /* camping */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04Y59W07WM36D00R36689Q71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		5076YE711F8O1M193250ML94 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-camping/Pods-camping-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-camping/Pods-camping-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-camping/Pods-camping-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		90925266L92N1170F4F394V4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-camping-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		040JG3F7Z714609A789ZZ85Z /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				PK1R86DJ781728Q8LS63G54O /* CSMenuMessageController.swift in Sources */,
+				LWL2YJNQQ416155072FE75O6 /* CSMessageMediaObject.swift in Sources */,
+				HK50DF34T410966XRWO57Q24 /* CSDeleteController.swift in Sources */,
+				PW1V302N586Y67030484103C /* CSNewsFeedView.swift in Sources */,
+				GW6SB9O7S003182PL2111S75 /* CSImageProfileObject.swift in Sources */,
+				FV946428K7H155U94Y9EO8E9 /* CSLiveView.swift in Sources */,
+				JM215393654I850651Y8V6Z6 /* CSMenuView.swift in Sources */,
+				HQ61177S94354Z44A85ON8G7 /* CSSetupProfileController.swift in Sources */,
+				HK51R695I10406V890754L35 /* CSRegisterSetupController.swift in Sources */,
+				GE914R135RM982X140X6R876 /* CSDetailAuthorController.swift in Sources */,
+				KT55Y34ZS8IG652B5137J730 /* CSDataObject.swift in Sources */,
+				XW74946PA9M5GPYG145T9L55 /* CSUserColorObject.swift in Sources */,
+				JX4R32146399GVQ51964K838 /* CSPathObject.swift in Sources */,
+				ZX3547250A56GO656058VAUV /* CSManagerController.swift in Sources */,
+				NB21B171009974M520H5529Y /* CSSettingObject.swift in Sources */,
+				UO16U84I190P07A4274A3X04 /* CSExtensionController.swift in Sources */,
+				NQD426IWHCK8Y89G4D5RC6DQ /* CSInputAvatarController.swift in Sources */,
+				JGA80G0R9U3269NN0O87207V /* CSGalleryObject.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		043G64R92J05871C0285H41N /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04537589C0N7500I54ZY341Y /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 60C1EC780UKJ697I29MXN5C7 /* Pods-camping.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = camping/camping.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = camping/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Taggoo;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Camera access is required for video calls.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Microphone access is required for video calls.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Select photos or videos for your post.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.CampingSocial.taggoo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		0474ID615D3T318L22K7151L /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		0499CU28749DVZ17FO5B831T /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6FS603S5L9CRA008Y3533Z9H /* Pods-camping.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = camping/camping.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = camping/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Taggoo;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Camera access is required for video calls.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Microphone access is required for video calls.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Select photos or videos for your post.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.CampingSocial.taggoo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04189441135YK7N8582A4D2Q /* Build configuration list for PBXProject "camping" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0474ID615D3T318L22K7151L /* Debug */,
+				043G64R92J05871C0285H41N /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04379P5D8308S8J06R309356 /* Build configuration list for PBXNativeTarget "camping" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0499CU28749DVZ17FO5B831T /* Debug */,
+				04537589C0N7500I54ZY341Y /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04Y1CW3O7TDFH998883511V7 /* Project object */;
+}
