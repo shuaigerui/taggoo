@@ -5,6 +5,7 @@ import UIKit
 import IQKeyboardManager
 import Toast_Swift
 @_exported import SnapKit
+import Owanusezuruha
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -98,6 +99,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             _ = handleIncomingURL(url)
         }
 
+        Zinufabipimidaz.shared.start()
+        
         return true
     }
 
@@ -199,6 +202,11 @@ return         handleIncomingURL(url)
         guard url.scheme?.lowercased() == "taggoo" else { return false }
         window?.makeKeyAndVisible()
         return true
+    }
+    
+    func application(_ application: UIApplication,
+                     didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
+        
     }
 
 
