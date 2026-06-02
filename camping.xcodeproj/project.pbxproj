@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04ECE0E52FCE7B09001FD692 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04ECE0E42FCE7B09001FD692 /* StoreKit.framework */; };
 		7B2709Q00L8457XG36R60F03 /* Pods_camping.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F640QB87851B297RG1O5ADTL /* Pods_camping.framework */; };
 		FV946428K7H155U94Y9EO8E9 /* CSLiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = XK15A22423FVY8VADIS59380 /* CSLiveView.swift */; };
 		GE914R135RM982X140X6R876 /* CSDetailAuthorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = NNW2H02W4G82R04H2K4FR745 /* CSDetailAuthorController.swift */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		04DM35V08QXC15Q1UA48180C /* camping.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = camping.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04ECE0E42FCE7B09001FD692 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		60C1EC780UKJ697I29MXN5C7 /* Pods-camping.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-camping.release.xcconfig"; path = "Target Support Files/Pods-camping/Pods-camping.release.xcconfig"; sourceTree = "<group>"; };
 		6FS603S5L9CRA008Y3533Z9H /* Pods-camping.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-camping.debug.xcconfig"; path = "Target Support Files/Pods-camping/Pods-camping.debug.xcconfig"; sourceTree = "<group>"; };
 		AWUJ7SVP20262503332HG631 /* CSRegisterSetupController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = CSRegisterSetupController.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04ECE0E52FCE7B09001FD692 /* StoreKit.framework in Frameworks */,
 				7B2709Q00L8457XG36R60F03 /* Pods_camping.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -117,6 +120,7 @@
 		AB268D7P4O14Z65794X90F5Y /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				04ECE0E42FCE7B09001FD692 /* StoreKit.framework */,
 				F640QB87851B297RG1O5ADTL /* Pods_camping.framework */,
 			);
 			name = Frameworks;
