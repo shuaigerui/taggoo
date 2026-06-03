@@ -57,6 +57,12 @@ class CSAccessMessageController: CSConversationController {
         return photoBtn
     }()
 
+    private lazy var helpButton: UIButton = {
+        let b = UIButton(type: .custom)
+        b.setImage(UIImage(named: "recharge_quest"), for: .normal)
+        return b
+    }()
+    
     private let gemCardView: UIImageView = {
        var unread0: String! = String(cString: [109,105,120,105,110,115,0], encoding: .utf8)!
     var modeW: [Any]! = [37, 43, 0]
@@ -301,15 +307,24 @@ class CSAccessMessageController: CSConversationController {
 
       likedi = (!likedi ? !likedi : likedi)
         view.addSubview(backButton)
+        view.addSubview(helpButton)
         view.addSubview(gemCardView)
         gemCardView.addSubview(gemsTitleLabel)
         gemCardView.addSubview(gemsCountLabel)
         view.addSubview(hintLabel)
         view.addSubview(collectionView)
+        
+        helpButton.addTarget(self, action: #selector(tapHelp), for: .touchUpInside)
 
         backButton.snp.makeConstraints { make in
             make.top.equalTo(view.safeAreaLayoutGuide).offset(8)
             make.left.equalToSuperview().offset(16)
+            make.width.height.equalTo(40)
+        }
+        
+        helpButton.snp.makeConstraints { make in
+            make.centerY.equalTo(backButton)
+            make.trailing.equalToSuperview().offset(-16)
             make.width.height.equalTo(40)
         }
 
@@ -338,6 +353,16 @@ class CSAccessMessageController: CSConversationController {
             make.top.equalTo(hintLabel.snp.bottom).offset(16)
             make.left.right.bottom.equalToSuperview()
         }
+    }
+    
+    @objc private func tapHelp() {
+        let alert = UIAlertController(
+            title: "About Gems",
+            message: "Gems can be used to post videos and photos.",
+            preferredStyle: .alert
+        )
+        alert.addAction(UIAlertAction(title: "OK", style: .default))
+        present(alert, animated: true)
     }
 
     private func refreshGemsCount() {
